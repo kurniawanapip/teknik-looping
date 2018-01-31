@@ -1,0 +1,19 @@
+Line 32: Class RichTextLib.RichTextBox of control rtbtampil was not a loaded control class.
+Line 114: Class MSComCtl2.DTPicker of control dtpcekout was not a loaded control class.
+Line 126: Class MSComCtl2.DTPicker of control dtpcekin was not a loaded control class.
+Line 38: The property name _ExtentX in rtbtampil is invalid.
+Line 39: The property name _ExtentY in rtbtampil is invalid.
+Line 40: The property name _Version in rtbtampil is invalid.
+Line 42: The property name ScrollBars in rtbtampil is invalid.
+Line 43: The property name RightMargin in rtbtampil is invalid.
+Line 44: The property name TextRTF in rtbtampil is invalid.
+Line 120: The property name _ExtentX in dtpcekout is invalid.
+Line 121: The property name _ExtentY in dtpcekout is invalid.
+Line 122: The property name _Version in dtpcekout is invalid.
+Line 123: The property name Format in dtpcekout is invalid.
+Line 124: The property name CurrentDate in dtpcekout is invalid.
+Line 132: The property name _ExtentX in dtpcekin is invalid.
+Line 133: The property name _ExtentY in dtpcekin is invalid.
+Line 134: The property name _Version in dtpcekin is invalid.
+Line 135: The property name Format in dtpcekin is invalid.
+Line 136: The property name CurrentDate in dtpcekin is invalid.
